@@ -46,6 +46,11 @@ describe('Magic', () => {
 })
 ```
 
+## TODO
+
+- [ ] Add unit tests
+- [ ] Improve documentation
+
 ## Credits
 
 Most of the code came from [This repository](https://github.com/thedgmbh/mongoose-dummy). Thanks to [Ahmed Agiza](https://github.com/thedgmbh) for making it available in the first place.
